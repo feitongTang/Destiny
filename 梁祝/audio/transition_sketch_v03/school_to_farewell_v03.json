@@ -1,0 +1,811 @@
+{
+  "bpm": 72,
+  "totalBeats": 64,
+  "notes": [
+    {
+      "start": 0.5,
+      "duration": 0.5,
+      "pitch": 64,
+      "velocity": 65,
+      "voice": "zhu"
+    },
+    {
+      "start": 1,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 69,
+      "voice": "zhu"
+    },
+    {
+      "start": 2,
+      "duration": 2,
+      "pitch": 69,
+      "velocity": 73,
+      "voice": "zhu"
+    },
+    {
+      "start": 4,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 68,
+      "voice": "zhu"
+    },
+    {
+      "start": 5,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 64,
+      "voice": "zhu"
+    },
+    {
+      "start": 6,
+      "duration": 2,
+      "pitch": 62,
+      "velocity": 61,
+      "voice": "zhu"
+    },
+    {
+      "start": 8,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 65,
+      "voice": "zhu"
+    },
+    {
+      "start": 9,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 70,
+      "voice": "zhu"
+    },
+    {
+      "start": 10,
+      "duration": 1,
+      "pitch": 69,
+      "velocity": 74,
+      "voice": "zhu"
+    },
+    {
+      "start": 11,
+      "duration": 2,
+      "pitch": 72,
+      "velocity": 79,
+      "voice": "zhu"
+    },
+    {
+      "start": 13,
+      "duration": 1,
+      "pitch": 69,
+      "velocity": 72,
+      "voice": "zhu"
+    },
+    {
+      "start": 14,
+      "duration": 2,
+      "pitch": 67,
+      "velocity": 68,
+      "voice": "zhu"
+    },
+    {
+      "start": 16,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 64,
+      "voice": "zhu"
+    },
+    {
+      "start": 17,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 68,
+      "voice": "zhu"
+    },
+    {
+      "start": 18,
+      "duration": 2,
+      "pitch": 69,
+      "velocity": 72,
+      "voice": "zhu"
+    },
+    {
+      "start": 20,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 67,
+      "voice": "zhu"
+    },
+    {
+      "start": 21,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 63,
+      "voice": "zhu"
+    },
+    {
+      "start": 22,
+      "duration": 2,
+      "pitch": 62,
+      "velocity": 60,
+      "voice": "zhu"
+    },
+    {
+      "start": 24,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 67,
+      "voice": "zhu"
+    },
+    {
+      "start": 25,
+      "duration": 1,
+      "pitch": 69,
+      "velocity": 72,
+      "voice": "zhu"
+    },
+    {
+      "start": 26,
+      "duration": 2,
+      "pitch": 72,
+      "velocity": 77,
+      "voice": "zhu"
+    },
+    {
+      "start": 28,
+      "duration": 2,
+      "pitch": 69,
+      "velocity": 70,
+      "voice": "zhu"
+    },
+    {
+      "start": 30,
+      "duration": 2,
+      "pitch": 67,
+      "velocity": 65,
+      "voice": "zhu"
+    },
+    {
+      "start": 32,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 62,
+      "voice": "zhu"
+    },
+    {
+      "start": 33,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 66,
+      "voice": "zhu"
+    },
+    {
+      "start": 34,
+      "duration": 3,
+      "pitch": 69,
+      "velocity": 70,
+      "voice": "zhu"
+    },
+    {
+      "start": 37,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 64,
+      "voice": "zhu"
+    },
+    {
+      "start": 38,
+      "duration": 2,
+      "pitch": 64,
+      "velocity": 60,
+      "voice": "zhu"
+    },
+    {
+      "start": 40,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 61,
+      "voice": "zhu"
+    },
+    {
+      "start": 41,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 65,
+      "voice": "zhu"
+    },
+    {
+      "start": 42,
+      "duration": 3,
+      "pitch": 69,
+      "velocity": 70,
+      "voice": "zhu"
+    },
+    {
+      "start": 45,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 63,
+      "voice": "zhu"
+    },
+    {
+      "start": 46,
+      "duration": 2,
+      "pitch": 64,
+      "velocity": 59,
+      "voice": "zhu"
+    },
+    {
+      "start": 48,
+      "duration": 1,
+      "pitch": 64,
+      "velocity": 60,
+      "voice": "zhu"
+    },
+    {
+      "start": 49,
+      "duration": 1,
+      "pitch": 67,
+      "velocity": 65,
+      "voice": "zhu"
+    },
+    {
+      "start": 50,
+      "duration": 1,
+      "pitch": 69,
+      "velocity": 69,
+      "voice": "zhu"
+    },
+    {
+      "start": 51,
+      "duration": 3,
+      "pitch": 72,
+      "velocity": 75,
+      "voice": "zhu"
+    },
+    {
+      "start": 54,
+      "duration": 2,
+      "pitch": 69,
+      "velocity": 68,
+      "voice": "zhu"
+    },
+    {
+      "start": 56,
+      "duration": 2,
+      "pitch": 67,
+      "velocity": 64,
+      "voice": "zhu"
+    },
+    {
+      "start": 58,
+      "duration": 2,
+      "pitch": 64,
+      "velocity": 59,
+      "voice": "zhu"
+    },
+    {
+      "start": 60,
+      "duration": 4,
+      "pitch": 62,
+      "velocity": 55,
+      "voice": "zhu"
+    },
+    {
+      "start": 4,
+      "duration": 2,
+      "pitch": 57,
+      "velocity": 61,
+      "voice": "liang"
+    },
+    {
+      "start": 6,
+      "duration": 1,
+      "pitch": 55,
+      "velocity": 59,
+      "voice": "liang"
+    },
+    {
+      "start": 7,
+      "duration": 1,
+      "pitch": 52,
+      "velocity": 57,
+      "voice": "liang"
+    },
+    {
+      "start": 8,
+      "duration": 2,
+      "pitch": 50,
+      "velocity": 56,
+      "voice": "liang"
+    },
+    {
+      "start": 10,
+      "duration": 1,
+      "pitch": 52,
+      "velocity": 58,
+      "voice": "liang"
+    },
+    {
+      "start": 11,
+      "duration": 1,
+      "pitch": 55,
+      "velocity": 61,
+      "voice": "liang"
+    },
+    {
+      "start": 12,
+      "duration": 2,
+      "pitch": 57,
+      "velocity": 65,
+      "voice": "liang"
+    },
+    {
+      "start": 14,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 61,
+      "voice": "liang"
+    },
+    {
+      "start": 16,
+      "duration": 1,
+      "pitch": 52,
+      "velocity": 58,
+      "voice": "liang"
+    },
+    {
+      "start": 17,
+      "duration": 3,
+      "pitch": 50,
+      "velocity": 56,
+      "voice": "liang"
+    },
+    {
+      "start": 20,
+      "duration": 1,
+      "pitch": 52,
+      "velocity": 58,
+      "voice": "liang"
+    },
+    {
+      "start": 21,
+      "duration": 1,
+      "pitch": 55,
+      "velocity": 61,
+      "voice": "liang"
+    },
+    {
+      "start": 22,
+      "duration": 2,
+      "pitch": 57,
+      "velocity": 65,
+      "voice": "liang"
+    },
+    {
+      "start": 24,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 61,
+      "voice": "liang"
+    },
+    {
+      "start": 26,
+      "duration": 2,
+      "pitch": 52,
+      "velocity": 58,
+      "voice": "liang"
+    },
+    {
+      "start": 28,
+      "duration": 4,
+      "pitch": 50,
+      "velocity": 55,
+      "voice": "liang"
+    },
+    {
+      "start": 32,
+      "duration": 4,
+      "pitch": 50,
+      "velocity": 54,
+      "voice": "liang"
+    },
+    {
+      "start": 36,
+      "duration": 2,
+      "pitch": 52,
+      "velocity": 56,
+      "voice": "liang"
+    },
+    {
+      "start": 38,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 59,
+      "voice": "liang"
+    },
+    {
+      "start": 40,
+      "duration": 2,
+      "pitch": 57,
+      "velocity": 62,
+      "voice": "liang"
+    },
+    {
+      "start": 42,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 60,
+      "voice": "liang"
+    },
+    {
+      "start": 44,
+      "duration": 2,
+      "pitch": 52,
+      "velocity": 57,
+      "voice": "liang"
+    },
+    {
+      "start": 46,
+      "duration": 4,
+      "pitch": 50,
+      "velocity": 55,
+      "voice": "liang"
+    },
+    {
+      "start": 50,
+      "duration": 2,
+      "pitch": 52,
+      "velocity": 57,
+      "voice": "liang"
+    },
+    {
+      "start": 52,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 60,
+      "voice": "liang"
+    },
+    {
+      "start": 54,
+      "duration": 2,
+      "pitch": 57,
+      "velocity": 63,
+      "voice": "liang"
+    },
+    {
+      "start": 56,
+      "duration": 2,
+      "pitch": 55,
+      "velocity": 60,
+      "voice": "liang"
+    },
+    {
+      "start": 58,
+      "duration": 2,
+      "pitch": 52,
+      "velocity": 57,
+      "voice": "liang"
+    },
+    {
+      "start": 60,
+      "duration": 4,
+      "pitch": 50,
+      "velocity": 54,
+      "voice": "liang"
+    },
+    {
+      "start": 0,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 0,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 0,
+      "duration": 4.15,
+      "pitch": 57,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 4,
+      "duration": 4.15,
+      "pitch": 36,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 4,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 4,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 8,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 8,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 8,
+      "duration": 4.15,
+      "pitch": 57,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 12,
+      "duration": 4.15,
+      "pitch": 38,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 12,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 12,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 16,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 16,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 16,
+      "duration": 4.15,
+      "pitch": 57,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 20,
+      "duration": 4.15,
+      "pitch": 36,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 20,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 20,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 24,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 24,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 24,
+      "duration": 4.15,
+      "pitch": 57,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 28,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 28,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 28,
+      "duration": 4.15,
+      "pitch": 55,
+      "velocity": 33,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 32,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 32,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 36,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 36,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 40,
+      "duration": 4.15,
+      "pitch": 38,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 40,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 40,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 44,
+      "duration": 4.15,
+      "pitch": 36,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 44,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 44,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 48,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 48,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 48,
+      "duration": 4.15,
+      "pitch": 55,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 52,
+      "duration": 4.15,
+      "pitch": 38,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 52,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 56,
+      "duration": 4.15,
+      "pitch": 36,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 56,
+      "duration": 4.15,
+      "pitch": 43,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 56,
+      "duration": 4.15,
+      "pitch": 50,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 60,
+      "duration": 4.15,
+      "pitch": 38,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 60,
+      "duration": 4.15,
+      "pitch": 45,
+      "velocity": 28,
+      "voice": "accompaniment"
+    },
+    {
+      "start": 60,
+      "duration": 4.15,
+      "pitch": 52,
+      "velocity": 28,
+      "voice": "accompaniment"
+    }
+  ]
+}
